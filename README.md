@@ -1,4 +1,12 @@
 # Data_Analysis_Using_Excel
+## Steps 
+
+- Data Collection: Gathered bike sales data from Alex Freberg's YouTube channel.
+- Data Cleaning: Checked spelling, removed duplicates for data quality.
+- Data Transformation: Renamed attributes using Find and Replace for clarity.
+- Pivot Tables: Created pivot tables on sheets for summarizing data.
+- Dashboard: Combined pivot tables and charts for visual insights.
+- Review: Checked and refined dashboard for accuracy and appeal.
 
 ## Bikes Sales Dashboard
 
